@@ -1,0 +1,7 @@
+nohup: ignoring input
+$ expo start --web --host 0.0.0.0
+AssertionError [ERR_ASSERTION]: The input did not match the regular expression /^(lan|tunnel|localhost)$/. Input:
+
+'0.0.0.0'
+
+error: script "web" exited with code 1
